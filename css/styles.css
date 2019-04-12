@@ -30,3 +30,11 @@
     padding: 10px;
     
 }
+
+.visability-hidden {
+    visibility: hidden;
+}
+
+.display-none {
+    display: none;
+}
